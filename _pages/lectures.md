@@ -35,10 +35,14 @@ description: All videos are available in this shared folder (<a href="https://uw
         {{ lecture.title }}
         <br />
         [
-            {% if lecture.slides %}
+            {% if lecture.slides1 %}
+              <a href="{{ lecture.slides1 }}" target="_blank">slides 1</a>
+            {% endif %}
+	    {% if lecture.slides2 %}
+            |  <a href="{{ lecture.slides2 }}" target="_blank">slides 2</a>
+            {% endif %}
+	    {% if lecture.slides %}
               <a href="{{ lecture.slides }}" target="_blank">slides</a>
-            {% else %}
-              slides
             {% endif %}
             {% if lecture.annotated %}
               (<a href="{{ lecture.annotated }}" target="_blank">annotated</a>)
@@ -46,14 +50,11 @@ description: All videos are available in this shared folder (<a href="https://uw
             {% if lecture.video %}
             | <a href="{{ lecture.video }}" target="_blank">video</a>
             {% endif %}
-            {% if lecture.video22 %}
-            | <a href="{{ lecture.video1 }}" target="_blank">Spring22 video</a>
-            {% endif %}
             {% if lecture.video1 %}
-            | <a href="{{ lecture.video1 }}" target="_blank">video Part 1</a>
+            | <a href="{{ lecture.video1 }}" target="_blank">video 1</a>
             {% endif %}
             {% if lecture.video2 %}
-            | <a href="{{ lecture.video2 }}" target="_blank">video Part 2</a>
+            | <a href="{{ lecture.video2 }}" target="_blank">video 2</a>
             {% endif %}
             {% if lecture.code %}
             | <a href="{{ lecture.code }}" target="_blank">code</a>

@@ -118,10 +118,10 @@
 - date: 10/9
   title: >
     <strong>Syntatic Parsing</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-11-parsing1.pdf"
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-12-parsing2.pdf"
-  video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/ESvqoOjDvHZHt21yATdi-hoBcN2hbUF0N0P7j76qwfBTjw?e=rPBUfz"
-  video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/ET3fnVT8uCRNmHFBYbMAR70BPVtrw__8PCktpz01IGlFPQ?e=CqqBSf"
+  slides1: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-11-parsing1.pdf"
+  slides2: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-12-parsing2.pdf"
+  video1: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/ESvqoOjDvHZHt21yATdi-hoBcN2hbUF0N0P7j76qwfBTjw?e=rPBUfz"
+  video2: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/ET3fnVT8uCRNmHFBYbMAR70BPVtrw__8PCktpz01IGlFPQ?e=CqqBSf"
   readings:
     - <a href="https://web.stanford.edu/~jurafsky/slp3/12.pdf" target="_blank">SLP3 ch12</a>
     - <a href="https://web.stanford.edu/~jurafsky/slp3/13.pdf" target="_blank">SLP3 ch13</a>
