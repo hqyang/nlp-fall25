@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <b>A</b>dvanced <b>N</b>atural <b>L</b>anguage <b>P</b>rocessing
-description: CS 769 • Fall 2023 • University of Wisconsin-Madison
+description: CS 769 • Fall 2024 • University of Wisconsin-Madison
 logo: uw-logo.png
 news: true
 ---
@@ -13,8 +13,8 @@ Natural language processing technology attempts to model human language with com
 
 - **Time:** Monday/Wednesday 11:00 am-12:15 pm
 - **Location:** [Noland Hall 168](https://goo.gl/maps/KNymENfMoKSdvFGJA){:target="\_blank"}
-- **Discussion:** [Piazza](https://piazza.com/wisc/fall2023/cs769){:target="\_blank"}
+- **Discussion:** [Piazza](https://piazza.com/wisc/fall2024/cs769){:target="\_blank"}
 - **Homework submission:** [Canvas](https://canvas.wisc.edu/courses/372811/){:target="\_blank"}
-- **Contact:** Students should ask all course-related questions on Piazza, where you will also find announcements. Please sign up using this [link](https://piazza.com/wisc/fall2023/cs769){:target="\_blank"}. For external enquiries, personal matters, or in emergencies, you can email this instructor directly.
+- **Contact:** Students should ask all course-related questions on Piazza, where you will also find announcements. Please sign up using this [link](https://piazza.com/wisc/fall2024/cs769){:target="\_blank"}. For external enquiries, personal matters, or in emergencies, you can email this instructor directly.
 
 ***
