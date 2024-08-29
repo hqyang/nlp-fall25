@@ -12,9 +12,9 @@ Natural language processing technology attempts to model human language with com
 ***
 
 - **Time:** Monday/Wednesday 11:00 am-12:15 pm
-- **Location:** [Noland Hall 168](https://goo.gl/maps/KNymENfMoKSdvFGJA){:target="\_blank"}
+- **Location:** [Grainger Hall 1280](https://maps.app.goo.gl/rdH834TbvHdTcnqh7){:target="\_blank"}
 - **Discussion:** [Piazza](https://piazza.com/wisc/fall2024/cs769){:target="\_blank"}
-- **Homework submission:** [Canvas](https://canvas.wisc.edu/courses/372811/){:target="\_blank"}
-- **Contact:** Students should ask all course-related questions on Piazza, where you will also find announcements. Please sign up using this [link](https://piazza.com/wisc/fall2024/cs769){:target="\_blank"}. For external enquiries, personal matters, or in emergencies, you can email this instructor directly.
+- **Homework submission:** [Canvas](https://canvas.wisc.edu/courses/426756/){:target="\_blank"}
+- **Contact:** Students should ask all course-related questions on Piazza, where you will also find announcements. Please sign up using this [link](https://piazza.com/wisc/fall2024/cs769){:target="\_blank"}. For external enquiries, personal matters, or in emergencies, you can email this instructor directly or come to the office hour (book a slot [here](https://docs.google.com/spreadsheets/d/1Xn469jKi8jTIaMqlqWHyEku0SzXRtOPTR8ZuQpKZDIk/edit?usp=sharing)).
 
 ***
