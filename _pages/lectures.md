@@ -2,7 +2,7 @@
 layout: schedule
 permalink: /lectures/
 title: Schedule
-description: All videos are available in this shared folder (<a href="https://uwprod-my.sharepoint.com/:f:/g/personal/jhu346_wisc_edu/ElgZ0z4XolpLgzX0VqsimGgBy7DLzXYsx0g4AzNd0qSYfw?e=UTO0Nj"  target="_blank">Link</a>).
+description: All videos will be available in this shared folder (<a href="https://uwprod-my.sharepoint.com/:f:/g/personal/jhu346_wisc_edu/EuGFZ6vIEyNKpr8wfGTLKYIBapu0FEAE1rSDEGewaT2vyg?e=woKH8I">Link</a>). The last year's videos are available in this shared folder (<a href="https://uwprod-my.sharepoint.com/:f:/g/personal/jhu346_wisc_edu/ElgZ0z4XolpLgzX0VqsimGgBy7DLzXYsx0g4AzNd0qSYfw?e=UTO0Nj"  target="_blank">Link</a>).
 ---
 
 {% assign current_module = 0 %}

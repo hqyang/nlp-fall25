@@ -4,7 +4,7 @@
   title: >
     <strong>Overview of NLP</strong>
   slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-01-intro.pdf"
-  video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/ER2Ek3Iorl5NkHqOGm3fvZIBjPyweloQpmJO8DBq6wuyNQ?e=QiLWhR"
+  video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/EWPAvLbFycJKpsdrG5RUF8IBNX8aE1Q6IPmyaLhcrTpQWQ?e=xf1GxE"
   readings:
     - SLP3  <a href="https://web.stanford.edu/~jurafsky/slp3/2.pdf" target="_blank">ch2</a>
 
@@ -12,7 +12,7 @@
   title: >
     <strong>Text Classification</strong>
   slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-02-classification.pdf"
-  video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/ESlU0gCN5gdDhyKgMea-UTgBOPDliGVKdovlONSIc0o0pw?e=Mq5X6a"
+  video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/EZf_MIOyx8JOoHU6wXstDjcBHc549b31K3DLTS8zDIWSrQ?e=wb4LGc"
   readings:
     - SLP3 <a href="https://web.stanford.edu/~jurafsky/slp3/4.pdf" target="_blank">ch4</a>
     - E <a href="https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf" target="_blank">ch2-4</a>
@@ -23,11 +23,11 @@
   title: >
     <strong>Deep Learning Basics</strong>
   slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-03-dl.pdf"
-  video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/Ebg1V39pXdBLs98-k_FE70oBZ8na4TaPiz9PoYDcEjrnig?e=UgbTCY"
+  video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/ER2XNHIypyZDgJYZt-5TZt8BB0R1EOjI4EJ-epuGD29_VQ?e=z600yp"
   readings:
     - <a href="https://colab.research.google.com/drive/12LyIog90fm6ed2W1hfkOMGebBkVhopaN?usp=sharing" target="_blank">Colab example</a>
-    - <a href="http://ruder.io/optimizing-gradient-descent/index.html#whichoptimizertochoose" target="_blank">Gradient Descent (Ruder 2016)</a>
-    - <a href="http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf" target="_blank">Dropout (Srivastava et al. 2014)</a>
+    - <a href="https://www.ruder.io/optimizing-gradient-descent/#whichoptimizertouse" target="_blank">Gradient Descent (Ruder 2016)</a>
+    - <a href="https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf" target="_blank">Dropout (Srivastava et al. 2014)</a>
   logistics:
 
 - date: 9/16
