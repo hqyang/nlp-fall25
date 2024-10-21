@@ -3,7 +3,7 @@
 - date: 9/4
   title: >
     <strong>Overview of NLP</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-01-intro.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-01-intro.pdf"
   video: "https://uwprod-my.sharepoint.com/:f:/g/personal/jhu346_wisc_edu/EgNPpABeDrdEtohA-yfLRN8BnFcRNDmBvkNXksmiPMhZ8g?e=srNDmz"
   readings:
     - SLP3  <a href="https://web.stanford.edu/~jurafsky/slp3/2.pdf" target="_blank">ch2</a>
@@ -11,7 +11,7 @@
 - date: 9/9
   title: >
     <strong>Text Classification</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-02-classification.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-02-classification.pdf"
   video: "https://uwprod-my.sharepoint.com/:f:/g/personal/jhu346_wisc_edu/Ei2KzIvLSx1Mm2wI0ZZD3z8BPQ8LKX5yV9eNHdI4tDaoLg?e=83rqeA"
   readings:
     - SLP3 <a href="https://web.stanford.edu/~jurafsky/slp3/4.pdf" target="_blank">ch4</a>
@@ -22,7 +22,7 @@
 - date: 9/11
   title: >
     <strong>Deep Learning Basics</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-03-dl.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-03-dl.pdf"
   video: "https://uwprod-my.sharepoint.com/:f:/g/personal/jhu346_wisc_edu/EjKh4DZ7BGNAjjZSEz6btVwBIwmppgzKgF7TuUKF5Kto5Q?e=aegXUf"
   readings:
     - <a href="https://colab.research.google.com/drive/12LyIog90fm6ed2W1hfkOMGebBkVhopaN?usp=sharing" target="_blank">Colab example</a>
@@ -33,7 +33,7 @@
 - date: 9/16
   title: >
     <strong>Word Vectors</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-04-word.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-04-word.pdf"
   video: "https://uwprod-my.sharepoint.com/:f:/g/personal/jhu346_wisc_edu/EnRpl7ysPeRDiRPh71QFzSQBETGARWfWQboaQThgsAo_CA?e=nBTKlm"
   readings:
     - SLP3 <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf" target="_blank">ch 6</a>
@@ -44,7 +44,7 @@
 - date: 9/18
   title: >
     <strong>Language Model</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-05-lm.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-05-lm.pdf"
   video: "https://uwprod-my.sharepoint.com/:f:/g/personal/jhu346_wisc_edu/Eul4nNmxo0VJpHMsmhCIqCYB9bKVOgplKWPlmi1hGMREUA?e=SqyeqV"
   readings:
     - SLP3 <a href="https://www.cc.gatech.edu/classes/AY2022/cs4650_fall/#:~:text=SLP3-,ch%203,-Sep%2015" target="_blank">ch 3</a>
@@ -55,7 +55,7 @@
 - date: 9/23
   title: >
     <strong>Recurrent Networks</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-06-rnn.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-06-rnn.pdf"
   video: "https://uwprod-my.sharepoint.com/:f:/g/personal/jhu346_wisc_edu/EgwvmU4rQRhGj8VynvYnlXoB96-x28BYfeIzwO57KKgtVA?e=og9Wap"
   readings:
     - <a href="https://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">Blog</a>
@@ -66,7 +66,7 @@
 - date: 9/25
   title: >
     <strong>Attention and Transformer</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-07-attention.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-07-attention.pdf"
   video: "https://uwprod-my.sharepoint.com/:f:/g/personal/jhu346_wisc_edu/EvPehPkDSbpIhxKQ66MDUEAB_bIsu33cobo_6_QTek0wHQ?e=8gw2bZ"
   readings:
     - <a href="https://arxiv.org/abs/1409.0473" target="_blank">Bahdanau et. al 2014</a>
@@ -76,7 +76,7 @@
 - date: 9/30
   title: >
     <strong>Pre-training and Self-supervised Learning</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-08-pretraining.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-08-pretraining.pdf"
   video: "https://uwprod-my.sharepoint.com/:f:/g/personal/jhu346_wisc_edu/Egp5Xddh6VtEhewyEGVkuQ4BfvfcaBNSGnyQO93kfOXRpA?e=jAZ6Fp"
   readings:
     - <a href="https://aclanthology.org/N19-1423/" target="_blank">Devlin et al. 2019</a>
@@ -88,7 +88,7 @@
 - date: 10/2
   title: >
     <strong>Conditioned Generation</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-09-condlm.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-09-condlm.pdf"
   video: "https://uwprod-my.sharepoint.com/:f:/g/personal/jhu346_wisc_edu/EstoZlLnJy1HhQbiFE3zI44B8D2gIy0MH5PFJuFlFQL8iA?e=Mvpnfc"
   readings:
     - <a href="https://arxiv.org/pdf/1409.3215.pdf" target="_blank">Sutskever et al. 2014</a>
@@ -104,7 +104,7 @@
 - date: 10/7
   title: >
     <strong>Morphology & Sequence Labeling</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-10-morph-seq.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-10-morph-seq.pdf"
   video: "https://uwprod-my.sharepoint.com/:f:/g/personal/jhu346_wisc_edu/EnmLRVLPdfVNsZ-hh_FpxtUBOcRJZd6VSBCA7nrbAw2LJw?e=da32sR"
   readings:
     - <a href="https://arxiv.org/pdf/1508.07909.pdf" target="_blank">BPE, Sennrich et al. 2016</a>
@@ -118,7 +118,7 @@
 - date: 10/9
   title: >
     <strong>Syntatic Parsing</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-11-parsing1.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-11-parsing1.pdf"
   video1: "https://uwprod-my.sharepoint.com/:f:/g/personal/jhu346_wisc_edu/EgTcmaJz1RRCh51P6YSv_q0BPz4wji2aGTfgQU2XnxR4GA?e=AWVd33"
   readings:
     - <a href="https://web.stanford.edu/~jurafsky/slp3/12.pdf" target="_blank">SLP3 ch12</a>
@@ -137,7 +137,7 @@
 - date: 10/14
   title: >
     <strong>Parameter-efficient Fine-tuning</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-15-peft.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-15-peft.pdf"
   video: "https://uwprod-my.sharepoint.com/:f:/g/personal/jhu346_wisc_edu/El1L8s2pm15IpfUQRrwyhA8BGHv-RmPHkAqVLJn4m8YqGA?e=dSuFxd"
   readings:
     - <a href="https://arxiv.org/abs/2110.04366" target="_blank">He et al. 2021</a>
@@ -148,7 +148,7 @@
 - date: 10/16
   title: >
     <strong>Multi-task Learning in NLP</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-15-multitask.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-15-multitask.pdf"
   video: "https://uwprod-my.sharepoint.com/:f:/g/personal/jhu346_wisc_edu/EmVXIA4WESBIvXCWY0v47owBHXtP-UnpTApvMegFAAxWEg?e=Be1ecv"
   readings:
     - <a href="https://towardsdatascience.com/understanding-dataset-shift-f2a5a262a766" target="_blank">Understanding Dataset shift</a>
@@ -164,7 +164,7 @@
 - date: 10/21
   title: >
     <strong>Prompting and Zero-/Few-shot Learning</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-16-prompting.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-16-prompting.pdf"
   video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/EQRLEPTGxg5Nso7qX1XkFigBd6IRIVJmnOEJGk7n2LnTCQ?e=MBXnja"
   readings:
     - <a href="https://arxiv.org/abs/2107.13586" target="_blank">Liu et al. 2021</a>
@@ -173,7 +173,7 @@
 - date: 10/23
   title: >
     <strong>Modeling Long Sequences</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-17-document.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-17-document.pdf"
   video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/Ee_ur4QOV9pJil7VyZDnzAwBn5n8P-uCOoRY_ixF4v7YxA?e=adq3Ib"
   readings:
     - <a href="https://aclanthology.org/P19-1285.pdf" target="_blank">Dai et al. 2019</a>
@@ -188,7 +188,7 @@
 - date: 10/28
   title: >
     <strong>Structured Learning Algorithms</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-18-structure.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-18-structure.pdf"
   video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/Ef7CYo4FLrdGirUVtNP3QQ4BeWegEMjf50ods-MQ6TqUig?e=Wn6T1O"
   readings:
     - <a href="http://karpathy.github.io/2016/05/31/rl/" target="_blank">Karpathy 2016</a>
@@ -203,7 +203,7 @@
 - date: 10/30
   title: >
     <strong>Latent Variable Models</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-19-latent.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-19-latent.pdf"
   video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/EWssE5TDM2hOuSxqq-8rD5UBDzkuJ-A_Yx8VuvDgG13f8g?e=hDMY8n"
   readings:
     - <a href="https://arxiv.org/pdf/1606.05908.pdf" target="_blank">Tutorial on VAE</a>
@@ -231,7 +231,7 @@
 - date: 11/6
   title: >
     <strong>Text-based Question Answering</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-20-textbasedqa.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-20-textbasedqa.pdf"
   video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/EZVXo6cytV5On_9JlJpy-ucBZ8AMCQIrZUzhSpkHnPwW0Q?e=UH2OI5"
   readings:
     - <a href="https://web.stanford.edu/~jurafsky/slp3/23.pdf" target="_blank">SLP3 ch23</a>
@@ -246,7 +246,7 @@
 - date: 11/11
   title: >
     <strong>LLMs and Knowledge-Graph</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-21-kg-llm.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-21-kg-llm.pdf"
   video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/Eet5nAgOZwdDueesmT2tpGMBxDIeifVvJDhv78FKfKZKCQ?e=vDAUrk"
   readings:
     - <a href="https://web.stanford.edu/~jurafsky/slp3/17.pdf" target="_blank">SLP3 ch17</a>
@@ -255,7 +255,7 @@
 - date: 11/13
   title: >
     <strong>Vison-Language Learning (Guest Lecture)</strong>
-  slides:  "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-25-multimodal.pdf"
+  slides:  "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-25-multimodal.pdf"
   video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/ETptzcwBSbVFliAtJZjz3dcBSeilFO8zKx0Eyx-un6EL1Q?e=h8hkts"
   readings:
     - <a href="https://arxiv.org/pdf/1705.09406.pdf" target="_blank">Baltrusaitis et al. 2017</a>
@@ -267,7 +267,7 @@
 - date: 11/18
   title: >
     <strong>Machine Translation</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-22-mt.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-22-mt.pdf"
   video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/EVC6V4LJi31Kjgm8jIUjc5IBJwDEwFtSbNL6arCqC3fpQA?e=3EfF7t"
   readings:
     - <a href="http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/ibm12.pdf" target="_blank">IBM Model</a>
@@ -282,7 +282,7 @@
 - date: 11/20
   title: >
     <strong>Dialog System</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-23-dialog.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-23-dialog.pdf"
   video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/EeJMUgGzBJxBslz3QzaEulsB9sCrWH4RfxDCxbmPbPvtTw?e=o9jRwD"
   readings:
     - <a href="https://web.stanford.edu/~jurafsky/slp3/24.pdf" target="_blank">SLP3 ch24</a>
@@ -291,7 +291,7 @@
 - date: 11/25
   title: >
     <strong>Computational Social Science, Bias and Fairness</strong>
-  slides: "https://junjiehu.github.io/cs769-fall23/assets/pdf/anlp-24-bias.pdf"
+  slides: "https://junjiehu.github.io/cs769-fall24/assets/pdf/anlp-24-bias.pdf"
   video: "https://uwprod-my.sharepoint.com/:v:/g/personal/jhu346_wisc_edu/EU2vO4xBS5BDudZuIg4CLNsBz1lohE6AaFZrbUL6ygv7Sw?e=P1B6ZU"
   readings:
     - <a href="https://arxiv.org/pdf/1707.09457.pdf" target="_blank">Zhao et al. 2017</a>
