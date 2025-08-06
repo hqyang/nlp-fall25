@@ -1,10 +1,15 @@
-Instructors:
-    - name: Junjie Hu
-      email: junjie.hu@wisc.edu
-      url: https://junjiehu.github.io/
+# @Author: Haiqin Yang
+# @Date:   2025-08-06 15:02:11
+# @Last Modified by:   Haiqin Yang
+# @Last Modified time: 2025-08-06 16:12:23
+Instructor:
+    - name: Haiqin Yang
+      email: yanghaiqin@sztu.edu.cn
+      url: https://hqyang.github.io/
       office-hours: "Monday 1:00-2:00 pm"
-      office-hours-location: "<a href=https://uwmadison.zoom.us/j/95113800299>Zoom</a> (<a href=https://docs.google.com/spreadsheets/d/1Xn469jKi8jTIaMqlqWHyEku0SzXRtOPTR8ZuQpKZDIk/edit?usp=sharing>Book a slot</a>)"
-      image: staff/junjiehu.png
+      office-location: C1-1707
+      # office-hours-location: "<a href=https://uwmadison.zoom.us/j/95113800299>Zoom</a> (<a href=https://docs.google.com/spreadsheets/d/1Xn469jKi8jTIaMqlqWHyEku0SzXRtOPTR8ZuQpKZDIk/edit?usp=sharing>Book a slot</a>)"
+      image: staff/hq2025.png
 
 Grader:
     - name: TBD
