@@ -23,24 +23,24 @@ There are no hard pre-requisites for the course, but programming experience in P
 
 ### Grading
 
-This is a graduate-level course, and by the end of this class you should have a good understanding of the methodologies in natural language processing, and be able to use them to solve real problems of modest complexity. The final grades will be determined based on the weighted average of the assignments, and project. The grading breakdown is as follows:
+This is an undergraduate-level course, and by the end of this class you should have a good understanding of the methodologies in natural language processing, and be able to use them to solve real problems of modest complexity. The final grades will be determined based on the weighted average of the assignments, project, and exam. The grading breakdown is as follows:
 
-- Homework 1 (15%)
-- Homework 2 (15%)
-- Homework 3 - Proposal (20%)
-- Homework 4 (20%)
-- Homework 5 - Project (30%)
-	- Report (10%)
-	- Code (10%)
-	- Presentation (10%)
+- Homework 1 (x%)
+- Homework 2 (x%)
+- Homework 3 - Proposal (x%)
+- Homework 4 (x%)
+- Homework 5 - Project (x%)
+	- Report (x%)
+	- Code (x%)
+	- Presentation (x%)
+- Exam ()
 
 
-*Note that this class does not have any exams.*
 
 ***
 
 ### Class format 
-For the time being the class is expected to be in-person, although this might change depending on the COVID situation. For each class there will be:
+For the time being the class is expected to be in-person. For each class there will be:
 
 - *Reading:* Most classes will have associated reading material that we recommend you read before the class to familiarize yourself with the topic.
 - *Code/Data Walk:* Some classes will include a code walk through code of a particular implementation, or data.
