@@ -1,20 +1,29 @@
 ---
 layout: about
 permalink: /
-title: <b>A</b>dvanced <b>N</b>atural <b>L</b>anguage <b>P</b>rocessing
-description: CS 769 • Fall 2024 • University of Wisconsin-Madison
-logo: uw-logo.png
+title: 自然语言处理 <b>N</b>atural <b>L</b>anguage <b>P</b>rocessing 
+description: BDI  • Fall 2025 • Shenzhen Technology University
+logo: SZTU_badge.jpg
 news: true
 ---
 
-Natural language processing technology attempts to model human language with computers, tackling a wide variety of problems from automatic translation to question answering. CS 769 Advanced Natural Language Processing is an introductory graduate-level course on natural language processing aimed at students who are interested in doing cutting-edge research in the field. In it, we describe fundamental tasks in natural language processing such as syntactic, semantic, and discourse analysis, as well as methods to solve these tasks. The course focuses on modern methods using neural networks, and covers the basic modeling and learning algorithms required therefore. The class culminates in a project in which students attempt to reimplement and improve upon a research paper in a topic of their choosing.
+自然语言处理(Natural Language Processing，NLP)属于人工智能的一个子领域，试图用计算机模拟人类语言，对自然语言的形、音、义等信息进行处理，即对字、词、句、篇章的输入、输出、识别、分析、理解、生成等进行操作和加工。它对计算机和人类的交互方式有许多重要的影响。 NLP 主要研究实现人与计算机之间用自然语言进行有效通信的各种理论和方法，是一门融语言学、计算机科学、数学于一体的科学。
+
+在此课程中，我们将描述了自然语言处理中的基本任务，如句法、语义和话语分析，以及解决这些任务的方法。本课程侧重于使用神经网络的现代方法，并涵盖了因此所需的基本建模和学习算法。
+
+本课程目标旨在：
+- 使学生能够了解自然语言处理领域及其细分领域的概念以及处理对象与目标，
+- 能够掌握自然语言处理领域中的经典算法与常用算法，
+- 能够根据实际的自然语言处理问题选择合适的算法和工具，设计合理的算法处理流程，并根据实际效果优化算法参数和算法流程来获得更佳的处理效果，从而更有效的解决实际问题。
+
+![NLP](assets/img/SZTU_badge.jpg)
 
 ***
 
-- **Time:** Monday/Wednesday 11:00 am-12:15 pm
-- **Location:** [Grainger Hall 1280](https://maps.app.goo.gl/rdH834TbvHdTcnqh7){:target="\_blank"}
-- **Discussion:** [Piazza](https://piazza.com/wisc/fall2024/cs769){:target="\_blank"}
-- **Homework submission:** [Canvas](https://canvas.wisc.edu/courses/426756/){:target="\_blank"}
-- **Contact:** Students should ask all course-related questions on Piazza, where you will also find announcements. Please sign up using this [link](https://piazza.com/wisc/fall2024/cs769){:target="\_blank"}. For external enquiries, personal matters, or in emergencies, you can email this instructor directly or come to the office hour (book a slot [here](https://docs.google.com/spreadsheets/d/1Xn469jKi8jTIaMqlqWHyEku0SzXRtOPTR8ZuQpKZDIk/edit?usp=sharing)).
+- **Time:** 
+- **Location:** {:target="\_blank"}
+- **Discussion:** {:target="\_blank"}
+- **Homework submission:** {:target="\_blank"}
+- **Contact:** For external enquiries, personal matters, or in emergencies, you can email me directly.
 
 ***
