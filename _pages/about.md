@@ -21,9 +21,9 @@ news: true
 ***
 
 - **Time:** 
-- **Location:** {:target="\_blank"}
-- **Discussion:** {:target="\_blank"}
-- **Homework submission:** {:target="\_blank"}
+- **Location:** 
+- **Discussion:** 
+- **Homework submission:** 
 - **Contact:** For external enquiries, personal matters, or in emergencies, you can email me directly.
 
 ***
