@@ -6,12 +6,20 @@ title: Homework Assignments and Project
 
 The aim of the assignment and project is to build basic understanding and advanced implementation skills needed to do build cutting-edge systems or do cutting-edge research using neural networks fro NLP, culminating with a project that demonstrates these abilities through a project.
 
+- Homework 1: [Link]
+- Homework 2: [Link]
+- Homework 3 (Project Proposal): [Link]
+- Homework 4: [Link]
+- Homework 5 (Final Project): [Link]
+
+<!--
 
 - Homework 1: [Link](https://github.com/JunjieHu/cs769-assignments/tree/main/assignment1)
 - Homework 2: [Link](https://github.com/JunjieHu/cs769-assignments/tree/main/assignment2)
 - Homework 3 (Project Proposal): [Link](https://github.com/JunjieHu/cs769-assignments/tree/main/assignment3)
 - Homework 4: [Link](https://github.com/JunjieHu/cs769-assignments/tree/main/assignment4)
 - Homework 5 (Final Project): [Link](https://github.com/JunjieHu/cs769-assignments/tree/main/project)
+-->
 
 ***
 
