@@ -5,9 +5,9 @@ title: Course Project
 description: Guidelines and suggestions for course projects
 ---
 
-Your class project is an opportunity for you to explore an interesting problem in the context of a real-world data sets.
-Projects should be done in teams of 2-3 students.
-Each project will be assigned to either the instructor or the TA (or both) as a project consultant/mentor who will consult with you on your ideas, but of course the final responsibility to define and execute an interesting piece of work is yours. Your project will be worth 30% of your final class grade, and will have 4 deliverables:
+Your class project is an opportunity for you to explore an interesting problem in the context of at least a real-world dataset.  
+
+Your project will be worth 30% of your final class grade, and will have 4 deliverables:
 
 1. **Presentation** : oral presentation (10%)
 2. **Final Report** : 8 pages excluding references (20%)
@@ -23,10 +23,10 @@ All write-ups should use the [ACL style](https://github.com/acl-org/acl-style-fi
 
 ### Team Formation
 
-You are responsible for forming project teams of 2-3 people.
-In some cases, we will also accept teams of 2, but a 3-person group is preferred.
-Once you have formed your group, please send one email per team to the class instructor list with the names of all team members.
-If you have trouble forming a group, please send us an email and we will help you find project partners.
+You are responsible for forming project teams of 3-4 people.
+In some cases, we will also accept teams of 2, but a 3-4-person group is preferred.
+Once you have formed your group, please send one email per team to me with the names of all team members.
+If you have trouble forming a group, please send us an email and I will help you find project partners.
 
 ### Project Proposal
 
@@ -51,7 +51,7 @@ The grading breakdown for the proposal is as follows:
 - 15% for plan of activities
 - 10% for quality of writing
 
-The project proposal will be due at **11:59 PM on Friday, February 22th**, and should be submitted via [Gradescope](https://www.gradescope.com/courses/36025).
+The project proposal will be due at **11:59 PM on Friday, xx xxth**, and should be submitted via . <!-- [Gradescope](https://www.gradescope.com/courses/36025)-->
 
 ### Midway Report
 
@@ -67,7 +67,7 @@ The grading breakdown for the midway report is as follows:
 - 10% for data collection and preliminary results
 - 10% for quality of writing
 
-The project midway report will be due at **11:59 PM on Friday, March 29th**, and must be submitted via [Gradescope](https://www.gradescope.com/courses/36025).
+The project midway report will be due at **11:59 PM on Friday, xx xxth**, and must be submitted via . <!-- [Gradescope](https://www.gradescope.com/courses/36025)-->
 
 ### Final Report
 
@@ -92,12 +92,12 @@ The grading breakdown for the final report is as follows:
 - 10% for empirical and theoretical analysis of results and methods
 - 20% for quality of writing (clarity, organization, flow, etc.)
 
-The project final report will be due at **11:59 PM on Friday, May 10th** (tentative), and must be submitted via [Gradescope](https://www.gradescope.com/courses/36025).
+The project final report will be due at **11:59 PM on Friday, xx xxth** (tentative), and must be submitted via . <!-- [Gradescope](https://www.gradescope.com/courses/36025)-->
 
 ### Presentation
 
 All project teams will present their work at the end of the semester.
-We will have a 2-3-hour long poster session held in NSH atrium on April 30.
+We will have a 2-3-hour long poster session held in xx on xx xx.
 Each team should prepare a poster (similar in style to a conference poster) and present it during the allocated time.
 If applicable, live demonstrations of your software are highly encouraged.
 
