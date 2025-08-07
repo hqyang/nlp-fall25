@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: 自然语言处理 <b>N</b>atural <b>L</b>anguage <b>P</b>rocessing 
-description: BDI  • Fall 2025 • Shenzhen Technology University
+description: BDI • Fall 2025 • Shenzhen Technology University
 logo: SZTU_badge.jpg
 news: true
 ---
@@ -16,7 +16,10 @@ news: true
 - 能够掌握自然语言处理领域中的经典算法与常用算法，
 - 能够根据实际的自然语言处理问题选择合适的算法和工具，设计合理的算法处理流程，并根据实际效果优化算法参数和算法流程来获得更佳的处理效果，从而更有效的解决实际问题。
 
-![NLP](assets/img/SZTU_badge.jpg)
+<!-- ![NLP](assets/img/nlp.png =800x) -->
+<div style="text-align: center;">
+<img src="assets/img/nlp.png" alt="nlp" style="width: 80%; max-width: 1600px; height: auto;">
+</div>
 
 ***
 

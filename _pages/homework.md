@@ -80,19 +80,20 @@ All homework assignments are expected to be conducted under the UW-Madison polic
 ### Course Project (HW 3 and 5)
 
 The class project will be carried out in groups of 2 or 3 people, and has four main parts: a proposal (HW 3), a Github repo for implementation, a final report, and a oral presentation (HW 5).
+
 The project is an integral part of this class, and is designed to be as similar as possible to researching and writing a conference-style paper.
 
-- [Any SemEval 2021 Task](https://semeval.github.io/SemEval2021/tasks)
+- [Any SemEval 2026 Task](https://semeval.github.io/SemEval2026/tasks)
+- [GoEmotions Fine-grained Emotion Detection Dataset](https://github.com/google-research/google-research/tree/master/goemotions)
+- [Subjective Intent Classification in Discourse](https://github.com/elisaF/subjective_discourse)
+- [Low Resource NLP](https://github.com/topics/low-resource-nlp?o=desc&s=updated)
 - [X-FACTR multilingual knowledge probing in QA](https://x-factr.github.io/)
 - [iSarcasm Sarcasm Detection Dataset](https://github.com/silviu-oprea/iSarcasm)
-- [GoEmotions Fine-grained Emotion Detection Dataset](https://github.com/google-research/google-research/tree/master/goemotions)
 - [SciREX Scientific Information Extraction](https://github.com/allenai/SciREX)
-- [Subjective Intent Classification in Discourse](https://github.com/elisaF/subjective_discourse)
-- [Very Low Resource MT](http://statmt.org/wmt21/unsup_and_very_low_res.html)
 - [National NLP Clinical Challenges (n2c2)](https://n2c2.dbmi.hms.harvard.edu/2022-track-2)
 - [MultiWoZ: Task-oriented dialog](https://github.com/budzianowski/multiwoz)
-- [XTREME: Zero-shot Cross-lingual Transfer](https://github.com/google-research/xtreme)
-- [MIA: Cross-lingual Open-Retrieval QA](https://mia-workshop.github.io/shared_task.html)
+- [Agentic AI](https://github.com/e2b-dev/awesome-ai-agents)
+- 
 
 
 ***

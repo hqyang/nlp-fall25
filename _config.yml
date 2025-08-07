@@ -1,15 +1,15 @@
 # @Author: Haiqin Yang
 # @Date:   2025-08-06 15:02:11
 # @Last Modified by:   Haiqin Yang
-# @Last Modified time: 2025-08-06 15:05:37
+# @Last Modified time: 2025-08-07 10:19:52
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
 
 author: Haiqin Yang
-name: BDI xxx NLP
+name: BDI-NLP
 title: Natural Language Processing
-email: yanghaiqin@sztu.edu.cn
+email: yanghaiqin@sztu.edu.cn,hqyang@ieee.org
 description: >
   BDI xxx - Natural Language Processing - Shenzhen Technology University - Fall 2025
 footer_text: >
