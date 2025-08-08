@@ -1,6 +1,12 @@
+<!-- 
+  @Author: Haiqin Yang
+  @Date:   2025-08-08 13:51:02
+  @Last Modified by:   Haiqin Yang
+  @Last Modified time: 2025-08-08 13:54:17
+-->
 <div class="instructors clearfix">
   {% for instructor in site.data.staff.Instructors %}
-  <div class="instructor-profile-two-col">
+  <div class="instructor-profile">
     <a href="{{ instructor.url }}" target="_blank"><img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" /></a>
     <ul class="instructor-info">
       <li><span>Instructor</span> <a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
