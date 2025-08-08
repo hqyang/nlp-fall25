@@ -1,3 +1,9 @@
+/**
+ * @Author: Haiqin Yang
+ * @Date:   2025-08-08 13:59:02
+ * @Last Modified by:   Haiqin Yang
+ * @Last Modified time: 2025-08-08 22:20:40
+ */
 .logo {
     float: left;
     margin-right: 20px;
@@ -58,10 +64,16 @@
         }
     }
 }
+.instructor-profile-one-col {
+    @extend %instructor-profile;
+    width: 80%;
+}
+
 .instructor-profile-two-col {
     @extend %instructor-profile;
     width: 50%;
 }
+
 .instructor-profile-three-col {
     @extend %instructor-profile;
     width: 33%;
