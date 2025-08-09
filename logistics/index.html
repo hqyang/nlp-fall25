@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="UTF-8">
+  <meta http-equiv="content-language" content="en">
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>BDI-NLP | Logistics</title>
+  <meta name="description" content="BDI xxx - Natural Language Processing - Shenzhen Technology University - Fall 2025
+">
+
+  <link rel="shortcut icon" href="/nlp-fall25/assets/img/favicon.ico">
+
+  <link rel="stylesheet" href="/nlp-fall25/assets/css/main.css">
+  <link rel="canonical" href="/nlp-fall25/logistics/">
+
+  
+</head>
+
+
+  <body>
+
+    <!-- 
+  @Author: Haiqin Yang
+  @Date:   2025-08-07 19:07:52
+  @Last Modified by:   Haiqin Yang
+  @Last Modified time: 2025-08-07 21:40:49
+-->
+<header class="site-header">
+
+  <div class="wrapper">
+
+    <span class="site-title">
+      <a class="page-link" href="https://hqyang.github.io/nlp-fall25/">BDI-NLP</a>
+    </span>
+
+    <nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger">
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewbox="0 0 18 15" width="18px" height="15px">
+              <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"></path>
+              <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"></path>
+              <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"></path>
+            </svg>
+          </span>
+        </label>
+
+      <div class="trigger">
+        <a class="page-link" href="https://hqyang.github.io/nlp-fall25">Home</a>
+        <a class="page-link" href="/nlp-fall25/logistics/">logistics</a>
+        <a class="page-link" href="/nlp-fall25/lectures/">lectures</a>
+        <a class="page-link" href="/nlp-fall25/homework/">homework</a>
+       <!--  <a class="page-link" href="/nlp-fall25/project/">project</a> -->
+      </div>
+    </nav>
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Logistics</h1>
+    <h2 class="post-description"></h2>
+  </header>
+
+  <article class="post-content Logistics clearfix">
+    <ul id="markdown-toc">
+  <li><a href="#textbooks" id="markdown-toc-textbooks">Textbooks</a></li>
+  <li><a href="#pre-requisites" id="markdown-toc-pre-requisites">Pre-requisites</a></li>
+  <li><a href="#grading" id="markdown-toc-grading">Grading</a></li>
+  <li><a href="#class-format" id="markdown-toc-class-format">Class format</a></li>
+</ul>
+
+<hr>
+
+<h3 id="textbooks">Textbooks</h3>
+
+<ul>
+  <li>(SLP3) <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank" rel="noopener noreferrer">Daniel Jurafsky and James H. Martin, Speech and Language Processing, 3rd edition</a>
+</li>
+  <li>(E) <a href="https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf" target="_blank" rel="noopener noreferrer">Jacob Eisenstein, Natural Language Processing (2018)</a>
+</li>
+  <li>(NLTK) <a href="https://www.nltk.org/book/" target="_blank" rel="noopener noreferrer">Steven Bird, Ewan Klein, and Edward Loper,  Natural Language Processing with Python (2009)</a>
+</li>
+</ul>
+
+<hr>
+
+<h3 id="pre-requisites">Pre-requisites</h3>
+<p>There are no hard pre-requisites for the course, but programming experience in Python and knowledge of probability and linear algebra are expected. It will be helpful if you have used neural networks previously.</p>
+
+<hr>
+
+<h3 id="grading">Grading</h3>
+
+<p>This is an undergraduate-level course, and by the end of this class you should have a good understanding of the methodologies in natural language processing, and be able to use them to solve real problems of modest complexity. The final grades will be determined based on the weighted average of the assignments, project, and exam. The grading breakdown is as follows:</p>
+
+<ul>
+  <li>Homework 1 (x%)</li>
+  <li>Homework 2 (x%)</li>
+  <li>Homework 3 - Proposal (x%)</li>
+  <li>Homework 4 (x%)</li>
+  <li>Homework 5 - Project (x%)
+    <ul>
+      <li>Report (x%)</li>
+      <li>Code (x%)</li>
+      <li>Presentation (x%)</li>
+    </ul>
+  </li>
+  <li>Exam ()</li>
+</ul>
+
+<hr>
+
+<h3 id="class-format">Class format</h3>
+<p>For the time being the class is expected to be in-person. For each class there will be:</p>
+
+<ul>
+  <li>
+<em>Reading:</em> Most classes will have associated reading material that we recommend you read before the class to familiarize yourself with the topic.</li>
+  <li>
+<em>Code/Data Walk:</em> Some classes will include a code walk through code of a particular implementation, or data.</li>
+</ul>
+
+<!-- ***
+
+### Participation
+
+We appreciate everyone being actively involved in the class!
+There are several ways of earning participation credit, which will be capped at 4%:
+- **Piazza participation:** The top ~20 contributors to Piazza will get 3.5%; others will get credit in proportion to the participation of the ~20th person. (To prevent abuse of the system, not all contributions are counted and instructors hold the right to determine to count contributions as positive or negative.)
+- **Completing mid-semester evaluation:** Around the middle of the semester, we will send out a survey to help us understand how the course is going, and how we can improve. Completing it is worth 0.5%.
+- **Karma point:** Any other act that improves the class, which a 10-708 TA or instructor notices and deems worthy: 1%.
+
+### Scribe Duties
+
+Each student is required to scribe for a small number of lectures (most likely just 1).
+Most lectures will have 3-4 students acting as scribes, and they should work as a team.
+During your assigned lectures, you are to take detailed notes in collaboration with your fellow scribes.
+After the lecture, the scribe team is to convert their notes into a written format (see [the guidelines](https://github.com/sailinglab/pgm-spring-2019/tree/master/_posts){:target="\_blank"}).
+The notes must be detailed and thorough, and must be submitted through a pull request on GitHub within 1 week after the lecture.
+TAs will audit and review the submitted notes, request changes if necessary, and will eventually approve the notes and add them to the course page.
+
+As long as your scribe notes are of sufficient standard, you will be awarded full credit for scribe duties.
+If your notes have errors or are otherwise not up to standard, we will inform you and give you a chance to correct them.
+You will receive zero credit if you fail to submit your notes.
+
+***
+
+### Homework Assignments
+
+There will be 4 homework assignments over the course of the semester.
+These assignments may contain material that has been covered by published papers and webpages.
+It is a graduate class and we expect students to solve the problems themselves rather than search for answers.
+
+**The students are required to typeset homework solutions using $$\LaTeX$$ and the provided template.**
+
+#### Collaboration Policy
+
+**Homework assignments must be done individually:** each student must hand in their own answers.
+However, it is acceptable to collaborate when figuring out answers and to help each other solve the problems.
+We will be assuming that, as participants in a graduate course, you will be taking the responsibility to make sure you personally understand the solution arising from such collaboration.
+You also must indicate on each homework with whom you have collaborated.
+
+#### Late Policy
+
+You will be allowed **6 total homework late days** without penalty for the entire semester.
+You may be late by up to 6 days on any homework assignment.
+Once those days are used, you will be penalized according to the following policy:
+
+- Homework is worth full credit at the due time on the due date.
+- The allowed late days are counted by day (i.e., each new late day starts at 12:00 am ET).
+- Once the allowed late days are exceeded, the penalty is 50% per late day conted by hour (i.e., 2.0833% per hour).
+- The homework is worth zero credit 48 hours after exceeding the late day limit.
+
+You must turn in at least 3 of the 4 assignments, even if for zero credit, in order to pass the course.
+Please upload your late submissions to [Gradescope](https://www.gradescope.com/courses/36025){:target="\_blank"}.
+
+#### Regrade Policy
+
+If you feel that we have made a mistake in grading your homework, please submit a regrading request to the instructor and TA by email, and we will consider your request. Please note that regrading of a homework may cause your grade to go either up or down.
+
+***
+
+### Final Project
+
+The class project will be carried out in groups of 3 or 4 people, and has four main parts: a proposal, a midway report, a final report, and a poster/oral presentation.
+The project is an integral part of this class, and is designed to be as similar as possible to researching and writing a conference-style paper.
+
+Please see the [project page](https://sailinglab.github.io/pgm-spring-2019/project/) for more information about the final project.
+
+***
+
+### Auditing
+
+To satisfy the auditing requirement, you must do *one* of the following:
+
+1. **Submit three homeworks** and receive at least 75% of the points on each one.
+2. **Do a class project** which must address a topic related to machine learning and must be something that you have started while taking this class (i.e. it can't be your previous work).
+You will need to submit a project proposal with everyone else, and present the project with everyone.
+However, you don't need to submit a milestone or final paper.
+You must get at least 80% on the final presentation part of the project.
+
+*If you plan to audit the class, please notify instructors that you are auditing and specify which requirement you plan to fulfill.*
+
+### Listeners outside CMU
+
+Please feel free to reuse any of these course materials that you find of use in your own courses.
+We ask that you retain any copyright notices, and include a written notice indicating the source of any materials you use. -->
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Natural Language Processing</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Haiqin Yang</li>
+<li><a class="u-email" href="mailto:yanghaiqin@sztu.edu.cn">yanghaiqin@sztu.edu.cn</a></li>
+</ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+<ul class="social-media-list"><li><a href="https://github.com/hqyang" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i> <span class="username">hqyang</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>© Copyright 2025 Shenzhen Technology University. <br>
+        Powered by <a href="http://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="noopener noreferrer">Unsplash</a>.
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+    <!-- Load jQuery -->
+<script src="//code.jquery.com/jquery-.min.js"></script>
+
+<!-- Load Common JS -->
+<script src="/nlp-fall25/assets/js/common.js"></script>
+
+
+
+
+
+
+
+<!-- Include custom icon fonts -->
+<link rel="stylesheet" href="/nlp-fall25/assets/css/fontawesome-all.min.css">
+<link rel="stylesheet" href="/nlp-fall25/assets/css/academicons.min.css">
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'G-KJ656DVY4W', 'auto');
+ga('send', 'pageview');
+</script>
+
+
+  </body>
+
+</html>
