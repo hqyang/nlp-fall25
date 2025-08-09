@@ -11,8 +11,9 @@ title: Logistics
 
 ### Textbooks
 
-- (SLP3) [Jurafsky and Martin, Speech and Language Processing, 3rd edition](https://web.stanford.edu/~jurafsky/slp3/)
+- (SLP3) [Daniel Jurafsky and James H. Martin, Speech and Language Processing, 3rd edition](https://web.stanford.edu/~jurafsky/slp3/)
 - (E) [Jacob Eisenstein, Natural Language Processing (2018)](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+- (NLTK) [Steven Bird, Ewan Klein, and Edward Loper,  Natural Language Processing with Python (2009)](https://www.nltk.org/book/)
 
 ***
 
