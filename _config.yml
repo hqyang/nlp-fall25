@@ -1,7 +1,7 @@
 # @Author: Haiqin Yang
 # @Date:   2025-08-06 15:02:11
 # @Last Modified by:   Haiqin Yang
-# @Last Modified time: 2025-08-15 09:02:11
+# @Last Modified time: 2025-08-28 17:23:41
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
@@ -269,7 +269,7 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
